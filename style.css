@@ -1,0 +1,34 @@
+* {
+    direction: rtl;
+    
+    display: block;
+    
+    /* margin: auto; */
+    
+    
+}
+
+audio {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h3 {
+    width: 100%;
+    background-color: #eee;
+    text-align: center;
+    border: 2px #0075ff solid ;
+    border-width: medium;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    border-right: solid black 5px;
+    background-color: #eee;
+}
